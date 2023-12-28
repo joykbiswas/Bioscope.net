@@ -1,0 +1,63 @@
+.search{
+    color: #2f80ed;
+    position: absolute;
+    font-size: 24px;
+    margin:-31px 0 0 210px;
+    cursor: pointer;
+    transition: 0.8s;
+
+}
+.search:hover{
+    transform: scale(1.1);
+}
+
+.color{
+    transition: 1s;
+    cursor: pointer;
+}
+.color:hover{
+    color: #2f80ed;
+}
+.catalog{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.catalog:hover{
+    color: #2f80ed;
+}
+.pricing{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.pricing:hover{
+    color: #2f80ed;
+}
+.live{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.live:hover{
+    color: #2f80ed;
+}
+
+.dot{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.dot:hover{
+    color: #2f80ed;
+}
+
+.login{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.login:hover{
+    color: #2f80ed;
+}
+

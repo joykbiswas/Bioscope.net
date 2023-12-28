@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "img":"https://i.ibb.co/4ZxFr6c/cave-hotel.jpg",
+        "name":"Sports broadcasts",
+        "title":"More than 200 movies"
+    },
+    {
+        "id": "2",
+        "img":"https://i.ibb.co/82Zk1Ws/lux-taj-cape.jpg",
+        "name":"Psychological films",
+        "title":"More than 300 movies"
+    },
+    {
+        "id": "3",
+        "img":"https://i.ibb.co/f4fKshF/plunge-pool.jpg",
+        "name":"Films about space",
+        "title":"More than 700 movies"
+    },
+    {
+        "id": "4",
+        "img":"https://i.ibb.co/CzJJF87/beach.jpg",
+        "name":"Kids Next Door",
+        "title":"More than 300 movies"
+    },
+   
+    {
+        "id": "6",
+        "img":"https://i.ibb.co/G2hgvJ4/IMG-20211220-183719.jpg",
+        "name":"JungleLand",
+        "title":"More than 500 movies"
+    },
+    {
+        "id": "7",
+        "img":"https://i.ibb.co/yhdwRzZ/Untitled-3.jpg",
+        "name":"Bad Impulse",
+        "title":"More than 300 movies"
+    },
+    {
+        "id": "8",
+        "img":"https://i.ibb.co/PF0g3Mc/Vegetable-Soup.jpg",
+        "name":"Best Movies",
+        "title":"More than 400 movies"
+    },
+    {
+        "id": "9",
+        "img":"https://i.ibb.co/4mFXMn8/pizza-1.jpg",
+        "name":"12 Years a Slave",
+        "title":"More than 300 movies"
+    },
+    {
+        "id": "10",
+        "img":"https://i.ibb.co/8PC4rb6/Rectangle-12.png",
+        "name":"The Good Lord Bird",
+        "title":"More than 400 movies"
+    }
+]

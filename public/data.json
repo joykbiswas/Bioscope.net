@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "img":"https://i.ibb.co/4ZxFr6c/cave-hotel.jpg",
+        "name":"Money Plane",
+        "value":"Free",
+        "type":"Action",
+        "date":"2021",
+        "rating":"9.1"
+    },
+    {
+        "id": "2",
+        "img":"https://i.ibb.co/82Zk1Ws/lux-taj-cape.jpg",
+        "name":"The Art Of Political",
+        "value":"Free",
+        "type":"Document",
+        "date":"2019",
+        "rating":"8.3"
+    },
+    {
+        "id": "3",
+        "img":"https://i.ibb.co/f4fKshF/plunge-pool.jpg",
+        "name":"Antebellum",
+        "value":"Free",
+        "type":"Horror",
+        "date":"2021",
+        "rating":"7.9"
+    },
+    {
+        "id": "4",
+        "img":"https://i.ibb.co/CzJJF87/beach.jpg",
+        "name":"Kids Next Door",
+        "value":"Free",
+        "type":"Document",
+        "date":"2017",
+        "rating":"8.4"
+    },
+   
+    {
+        "id": "6",
+        "img":"https://i.ibb.co/G2hgvJ4/IMG-20211220-183719.jpg",
+        "name":"JungleLand",
+        "value":"Free",
+        "type":"Document",
+        "date":"2020",
+        "rating":"9.1"
+    },
+    {
+        "id": "7",
+        "img":"https://i.ibb.co/yhdwRzZ/Untitled-3.jpg",
+        "name":"Bad Impulse",
+        "value":"Free",
+        "type":"History",
+        "date":"2017",
+        "rating":"8.8"
+    },
+    {
+        "id": "8",
+        "img":"https://i.ibb.co/PF0g3Mc/Vegetable-Soup.jpg",
+        "name":"Tenet",
+        "value":"Free",
+        "type":"Action",
+        "date":"2021",
+        "rating":"7.5"
+    },
+    {
+        "id": "9",
+        "img":"https://i.ibb.co/4mFXMn8/pizza-1.jpg",
+        "name":"12 Years a Slave",
+        "value":"Free",
+        "type":"History",
+        "date":"2017",
+        "rating":"7.9"
+    },
+    {
+        "id": "10",
+        "img":"https://i.ibb.co/8PC4rb6/Rectangle-12.png",
+        "name":"The Good Lord Bird",
+        "value":"Free",
+        "type":"Action",
+        "date":"2019",
+        "rating":"8.3"
+    }
+]
